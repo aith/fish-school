@@ -151,7 +151,7 @@ function doColor(a, b, c, t, d) {
     c = startc
     let first = [a[0], a[1], a[2]]
     // print(first)
-    let d2 = random(0.15, 0.25)
+    let d2 = random(0.15, 0.30)
     let d3 = random(d2, 0.6)
     // d = [0.00, 0.20, 0.5]
     d = [0, d2, d3]

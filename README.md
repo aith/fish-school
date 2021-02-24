@@ -1,3 +1,1 @@
-color chosen after the blue screen of death, since this was the highest resolution i could do before p5 gave out on me
-# lsystem
-# lsystem
+started with a binary fractal tree, ended with a stochastic L-system
